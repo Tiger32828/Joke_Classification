@@ -1,0 +1,26 @@
+People = eat + sleep + work + play,
+Pig = eat + sleep,
+Substitute: human = pig + work + play,
+That is: people - play = pig + work
+Conclusion: people who don't know how to play = pigs who can work
+
+man = eating + sleeping + making money
+Pig = eat + sleep
+Substitute: man = pig + make money
+Namely: pig = man - making money
+Therefore, men who do not make money are equal to pigs.
+
+Women = eating + sleeping + spending money.
+Pig = eat + sleep.
+Substitute: woman = pig + money
+Namely: woman - spending money = pig.
+Conclusion: Women who don't spend money are pigs.
+
+In summary:
+Men make money to keep women from turning into pigs!
+Women pay to keep men from turning into pigs!
+
+in conclusion:
+man + woman
+= (Pig + Make money) + (Pig + Spend money)
+= two pigs

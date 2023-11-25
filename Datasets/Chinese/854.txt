@@ -1,0 +1,3 @@
+Man: "Can you play the guitar?"
+Female: "Yes!"
+Male: "No wonder you keep plucking my heartstrings.."

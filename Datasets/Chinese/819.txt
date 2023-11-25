@@ -1,0 +1,3 @@
+Man: "What blood type are you?"
+Female: "Type A."
+Man: "No, you are my ideal type."

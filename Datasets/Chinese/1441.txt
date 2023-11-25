@@ -1,0 +1,8 @@
+Doctors are conducting routine tests on Amin...
+Doctor: "Your current weight is 95 kg, what was your heaviest weight in the past?"
+Amin: "120 kilograms."
+Doctor: "How many kilograms was at the lightest?"
+Amin: "2.8kg."
+The doctor said with a serious face: "Sir, please answer my question seriously, don't joke!"
+A Ming: "When I was born, I really only weighed 2.8 kilograms!"
+doctor:"……"

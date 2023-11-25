@@ -1,0 +1,7 @@
+Male: "Where does abc start?"
+Female: "a starts."
+Male: "What about ㄅㄆㄇㄈ?"
+Female: "ㄅ Let's start~"
+Man: "Where does love begin?"
+Female: "Love?"
+Male: "Wrong, it started with me and you~"

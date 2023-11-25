@@ -1,0 +1,2 @@
+Teacher: "Please give an example to explain the phenomenon of thermal expansion and cold contraction"
+Student: "4 weeks in winter vacation, 8 weeks in summer vacation..."

@@ -1,0 +1,4 @@
+Q: Annabelle, defendant, guessed the name of a dog breed.
+
+
+Answer: Chihuahua → [Country language] Report = Ji

@@ -1,0 +1,5 @@
+The young man asked the Zen master, "What should I do if my heart is filled with worries and troubles?"
+The Zen master said thoughtfully, "You draw a curved line at random. Use a magnifying glass to enlarge it. Isn't its surroundings very clear and open?"
+
+The young man drew a Peano curve.
+(The Peano curve can traverse all the points in the unit square and is a curve that fills space.)

@@ -1,0 +1,1 @@
+American: "How old are you?" Thief: "Oops! Recognized, he said 'how' 'old' 'yes' 'you'."

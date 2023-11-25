@@ -1,0 +1,9 @@
+Teacher: "Today we are going to review the nouns related to the circle. What can any two points on the circle form a line?"
+"Yes, we call it an arc"
+"Can two radii and arcs form a...?"
+"Yes, it's a fan"
+"A straight line connecting any two points on a circle is called...?"
+"Very good, a string"
+"What can a string and its corresponding arc form...? Please tell me, classmate?"
+
+Sima Qian: "Teacher, I feel sick and want to go home."

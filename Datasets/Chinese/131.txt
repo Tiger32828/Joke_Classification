@@ -1,0 +1,5 @@
+It is said that a student was preparing to pre-select classes for the next semester at the end of the semester, but the content of the system was different this time.
+The content is as follows: "Hello, please enter the student number and press the pound sign, please press 5 to drop out of school, press 6 to withdraw from school, and press 7 to resume school."
+Driven by curiosity, the student pressed "5", only to hear the system answer "Successfully dropped out", and the student's face changed drastically.
+At this time, another hope emerged in my heart. Didn't I just hear that pressing 7 for resumption of school? So he pressed "7",
+I only heard the system answer: "Sorry, non-students from our school are not allowed to use this system."

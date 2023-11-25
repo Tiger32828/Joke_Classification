@@ -1,0 +1,4 @@
+Woman: "Doctor, my weight has exceeded 90 kilograms, what should I do?"
+Doctor: "It's a very simple head movement, left to right, right to left."
+Woman: "How many times a day do you do it?"
+Doctor: "Not necessarily, as long as someone invites you to eat, you do this exercise until the person leaves."

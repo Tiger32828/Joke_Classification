@@ -1,0 +1,9 @@
+when ordering
+I said: a pork chop
+My mother said: dig for pork chops (Taiwanese Mandarin)
+My dad said: dig pork chops
+result
+My mom and I both got pork chops
+
+
+My Dad is "Flower Branch Pai"

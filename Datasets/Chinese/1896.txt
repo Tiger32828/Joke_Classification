@@ -1,0 +1,2 @@
+Teacher: "Now I'm in the 'First Aid' class. Someone is injured. What should I do first?"
+Xiaoxin: "I know, ask him if he wants organ donation?"

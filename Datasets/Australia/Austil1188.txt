@@ -1,0 +1,1 @@
+i've run my eyes over the COVIDSafe app source code. here are my initial thoughts:

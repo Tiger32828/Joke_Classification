@@ -1,0 +1,5 @@
+The young man asked the Zen master, "I feel that I am superfluous in this world, and no one needs me."
+The Zen master said, "Just like the mathematics you learn, no matter how complicated and difficult a function is, there is a suitable graph corresponding to it. You just haven't found that graph."
+The young man pondered and wrote down the analytical formula of the Dirichlet function.
+
+(The analytic formula of the Dirichlet function is not derivable everywhere, and it is discontinuous everywhere, so it is impossible to draw an image, but the image exists objectively.)

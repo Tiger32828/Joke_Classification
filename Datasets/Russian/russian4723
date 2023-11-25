@@ -1,0 +1,1 @@
+Actually, a cat's life counter is three binary digits. It cannot reach 9 (1001) because there is no fourth digit. After 7 (111) with the next pulse, it overflows and resets back to 0 (000), and so on as many times as you like. But cats try not to talk about it, so as not to envy.

@@ -1,0 +1,2 @@
+White: "Ah! What a beautiful bookshelf you have, but there's not a single book on it."
+Brown: "Yeah, I used to have a lot of books. But to buy this shelf, I had to sell them all."

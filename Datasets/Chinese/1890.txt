@@ -1,0 +1,4 @@
+Teacher: "Xiaoxin, your art work is very good. Tomorrow the school will send you to participate in the city-wide competition."
+Xiaoxin: "No."
+Teacher: "Why?"
+Xiaoxin: "My dad does the work. He has to go to work tomorrow."

@@ -1,0 +1,6 @@
+Man: "You pour this glass of water on the table."
+Female: "Ah? Why?"
+Man: "You're right."
+Female: "Is that so? (splash)"
+
+Male: "Shrew."

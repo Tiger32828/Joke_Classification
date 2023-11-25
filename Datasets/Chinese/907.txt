@@ -1,0 +1,4 @@
+A: "How long does it take to ride a bicycle from Taipei to Tainan?"
+B: "It will take a long time"
+A: "How long will it take at least?"
+B: "It takes longer to ride a horse"

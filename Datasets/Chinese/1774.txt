@@ -1,0 +1,4 @@
+Doctor: "Did you follow my advice and sleep with the windows open?"
+Patient: "Yes."
+Doctor: "Then your asthma is completely gone, right?"
+Patient: "Still. But my wallet, TV, laptop are gone."

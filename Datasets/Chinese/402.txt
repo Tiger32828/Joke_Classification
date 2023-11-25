@@ -1,0 +1,55 @@
+Do you know what big data is?
+You will find out by following a conversation! Exaggerated but very expressive...
+
+Pizza Hut's phone rang.
+Customer service picks up the phone: Pizza Hut. Hello! What do you need me to do for you?
+Customer: Hello! I want a...
+Customer Service: Sir, please tell me your membership card number first, okay?
+Customer: 16846146***.
+
+Customer Service: Mr. Chen, hello! You live in Room 1205, 12th Floor, No. 1 Quanzhou Road. Your home phone number is 2646****, your company phone number is 4666****, and your mobile phone number is 1391234****. Which phone do you want to pay with?
+
+Customer: Why do you know all my phone numbers?
+Customer service: Mr. Chen, because we have an online CRM system.
+Customer: I want a seafood pizza...  
+Customer Service: Mr. Chen, seafood pizza is not for you.
+Customer: Why?
+Customer Service: According to your medical records, your blood pressure and cholesterol are high.
+Customer: So what can you recommend?
+Customer Service: You can try our low-fat healthy pizza.
+Customer: How did you know I would like this?
+Customer Service: You borrowed a copy of "Low-Fat Healthy Cookbook" at the National Library last Monday.
+
+Customer: Good. Then I want a family queen size pizza.
+Customer service: Mr. Chen, the large size is not enough.
+Customer: Why?
+Customer Service: Because there are six people in your family. How about an extra-large one?
+Customer: How much will you pay?
+Customer service: 99 yuan. This is enough for your family of six. But your mother should eat less. She just had heart bypass surgery last month and is still recovering.
+Customer: Can I swipe my card?
+Customer Service: Mr. Chen, I'm sorry. Please pay cash.
+Customer: Can't you swipe your card?
+Customer Service: Generally yes. But your credit card is maxed out, and you still owe the bank $4,807, not including your mortgage interest.
+
+Customer: Then I will go to the nearby ATM to withdraw money.
+Customer Service: Mr. Chen, according to your records, you have exceeded the withdrawal limit for today.
+Customer: Forget it, you can send the pizza directly to my house. There is cash at home. How long will it take for you to deliver?
+Customer Service: About 30 minutes. If you don't want to wait, you can pick it up yourself on a motorcycle.
+Customer: Why?
+Customer service: According to the automatic tracking records of our CRM global positioning system vehicles, a motorcycle with the number SB-748 you registered is currently driving on the right side of Hualian Shopping Center in the east section of Jiefang Road, only 50 meters away from our store.
+Customer: Okay (starting to get dizzy)
+
+Customer Service: Mr. Chen, I suggest you bring a small portion of seafood pizza.
+Customer: Why? Didn't you say I can't eat it?
+Customer service: According to the analysis of our CRM communication system, you have a high frequency and a long time to talk to a woman today. Today is 2.14 again. We analyze that it should be your lover, and this mobile phone user has been buying seafood pizza recently. She Should like the taste.
+customer:…………
+Customer Service: You'd better take it home now, or it will be inconvenient for you to come out.
+
+Customer: Why?
+Customer Service: According to our positioning system, your lover will arrive home in about 30 minutes.
+Customer: Why should I come out?
+
+Customer service: You have booked a room for tonight at Huifeng Hotel. I guess you are on a date with your lover?
+Customer: Immediately fainted......
+
+This is big data!

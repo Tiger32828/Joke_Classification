@@ -1,0 +1,3 @@
+"Xiao Chen, the company has a dinner party, do you want to attend?"
+"Boss, I'm sorry... I have something to do that day and can't go..."
+"I don't seem to have announced the date when it will be done."

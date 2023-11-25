@@ -1,0 +1,3 @@
+Teacher: "Using an idiom to describe a person's happy appearance, it must contain numbers."
+Health: "Simple, "smiling Jiuquan"."
+division:"...."

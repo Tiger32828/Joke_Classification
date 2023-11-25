@@ -1,0 +1,2 @@
+"This is your weight loss menu!"
+"Do you want to eat it before or after a meal?"

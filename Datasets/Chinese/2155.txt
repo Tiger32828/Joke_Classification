@@ -1,0 +1,6 @@
+A: "How much is your annual salary?"
+B: "8 million."
+A: "700,000 in that month!"
+B: "Yes, this is the base salary."
+A: "Okay, what are you doing?"
+B: "Dream..."

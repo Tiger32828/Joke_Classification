@@ -1,0 +1,6 @@
+ask:
+1+1=2
+people+4=?
+
+
+Answer: Girls, because they are girls

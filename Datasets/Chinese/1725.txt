@@ -1,0 +1,5 @@
+Turtle: "Whoever gets home first wins!"
+Rabbit: "Okay."
+(turtle retracts into shell)
+Turtle: "I'm here!"
+Rabbit: "Nima..."

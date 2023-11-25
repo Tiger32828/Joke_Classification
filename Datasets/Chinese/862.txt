@@ -1,0 +1,4 @@
+Son: "Doctor, how is my dad?"
+Doctor: "Sorry, we tried our best, but Ling Zun passed away peacefully."
+Son: "You lied, it's not true!"
+Doctor: "Yes, he used to run."

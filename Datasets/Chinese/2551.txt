@@ -1,0 +1,4 @@
+Teacher: "How to translate "This is a book."?"
+Student: "This is Book A!"
+Teacher: "What about 'This is a pen.'?"
+Student: "This is a porn movie!"

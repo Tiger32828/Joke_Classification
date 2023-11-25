@@ -1,0 +1,6 @@
+There are four engineers driving out to play together, they are: electrical engineer, chemical engineer, construction engineer, computer engineer.
+When the car was halfway through, it suddenly scraped. At this time, the electrical engineer got out of the car and checked it, but it still couldn't start. He guessed that the circuit was probably burned out.
+Then the chemical engineer also got out of the car to try it out, but it still couldn't start, and he guessed that it was probably a problem with the carburetor.
+Later, the construction engineer also went down to check it, but still couldn't start it, so he said that he couldn't check it out without the blueprint.
+Finally, the computer engineer spoke: Everyone got off the car at the same time, got on the car together after 2 minutes, and it was ready to start. "
+(Because the computer crashes, usually just restart it, so the computer engineer is doing Reset!)

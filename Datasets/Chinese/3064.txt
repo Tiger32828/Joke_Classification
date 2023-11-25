@@ -1,0 +1,3 @@
+I went to visit weather stations and saw many of the latest instruments for forecasting the weather.
+After the tour, I asked the stationmaster curiously, "When you say that the probability of rain is 75%, how did you calculate it?"
+Without thinking much, the stationmaster replied, "That is to say, there are four of us here, and three of them think it will rain today."

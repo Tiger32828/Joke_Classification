@@ -1,0 +1,5 @@
+Father: "Remember, child! Success requires honesty and wisdom."
+Son: "Honest and wise? But what is honesty?"
+Father: "Honest is keeping promises."
+Son: "Then what is wisdom?"
+Father: "Don't promise."

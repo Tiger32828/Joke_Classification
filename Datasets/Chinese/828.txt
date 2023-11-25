@@ -1,0 +1,5 @@
+Man: "What is the door made of wood called?"
+Female: "Wooden door~"
+Man: "What is the happiest door?"
+Woman: "I don't know."
+Male: "We!"

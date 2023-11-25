@@ -1,0 +1,4 @@
+Question: There are three caterpillars, the first caterpillar says there are two caterpillars behind him, the third caterpillar says there are two caterpillars in front of him, but the middle one says there are no caterpillars behind him, why?
+
+
+Answer: Because he lied.

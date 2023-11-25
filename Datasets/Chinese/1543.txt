@@ -1,0 +1,4 @@
+Question: Which number 123456789 is the most industrious and which number is the laziest?
+
+
+Answer: 1 is the most industrious, 2 is the most lazy, because: one does not work and the other is endless

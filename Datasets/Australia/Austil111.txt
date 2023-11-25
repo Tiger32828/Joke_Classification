@@ -1,0 +1,1 @@
+A really good bit that service workers do is act performatively surprised when you try to pay with cash, as if they've never seen it before

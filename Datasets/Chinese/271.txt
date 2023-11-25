@@ -1,0 +1,4 @@
+Patient: "Doctor, what are the chances of a successful operation?"
+Doctor: "Oh, I have had ninety-seven surgeries even this time."
+Patient: "Then I'm relieved."
+Doctor: "Well! I also hope to succeed once."

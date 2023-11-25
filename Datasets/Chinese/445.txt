@@ -1,0 +1,10 @@
+A class holds a final exam, and the class will hand in the papers after 40 minutes.
+And told the invigilator that because the class instructor has explained matters that need to be announced on the blackboard.
+The invigilator did not suspect him, but the class representative wrote:
+"Students 1, 5, 7, 8, 11, 12, and 13 have finished their exams, please find teacher Alex
+2, 4, 6, 10, 15 go to Hall B to meet
+3, 9, 16, 18, 20, 23 to wash the windows
+The rest are left to sweep! ! ! ! "
+
+
+Haha~ Why didn't we think of this trick in the first place...

@@ -1,0 +1,2 @@
+Teacher: "Do you know where the Dead Sea is?"
+Student: "I don't know because it's dead"

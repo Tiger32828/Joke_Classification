@@ -1,0 +1,5 @@
+Pizza shop phone rings
+Pizzeria: "Hello, this is a pizzeria that is happy to serve you."
+Caller: "Hello, I am XX Insurance here."
+Pizza shop: "Sorry, we don't need it right now, thank you (hangs up)"
+Insurance company: "I just want pizza..."

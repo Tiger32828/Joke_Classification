@@ -1,0 +1,4 @@
+Employee: "Boss, I want a raise, or I'll quit."
+Boss: "If you have something to say, let's take a step back, don't you think?"
+Employee: "How to retire?"
+Boss: "I don't give you a raise, so don't leave."

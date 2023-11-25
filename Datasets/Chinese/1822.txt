@@ -1,0 +1,5 @@
+Fortune teller: "You can ask me two questions for 10,000 yuan."
+Guest: "Is this too expensive?"
+Fortune teller: "Yes, you have one question left"
+Guest: "What! Why is this a problem?"
+Fortune teller: "Yeah, okay...the next one..."

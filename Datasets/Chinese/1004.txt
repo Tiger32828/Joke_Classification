@@ -1,0 +1,3 @@
+Nurse: "Your friend sent you a letter of condolence"
+Patient: "I don't have the strength to read it, please read it to me!"
+Nurse: "The letter said: I'm sorry that I can't go to the doctor due to busy work, but I must make time to attend the funeral..."

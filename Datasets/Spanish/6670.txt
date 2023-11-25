@@ -1,0 +1,1 @@
+Typical: *Save file* "asdfgh" *name already exists* "asdfgh1".

@@ -1,0 +1,2 @@
+Female: "I think your shoes are pretty good~"
+Man: "Really? But I don't think you're as good-looking as you are!"

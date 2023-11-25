@@ -1,0 +1,2 @@
+Student: "Teacher, what you teach is useless!"
+Teacher: "Silly boy, I don't allow you to talk about yourself like that."

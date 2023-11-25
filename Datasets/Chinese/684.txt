@@ -1,0 +1,2 @@
+short jokes: jokes
+Long joke: laugh~~~~~~~~~ words

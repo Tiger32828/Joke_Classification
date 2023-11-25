@@ -1,0 +1,7 @@
+Teacher: "Xiaoxin, please use "dilemma" to make a sentence"
+
+Xiaoxin: "I was in a dilemma during the exam"
+
+Teacher: "Is it because you can't answer the question, making you in a dilemma?"
+
+Xiaoxin: "No, it's because the left and right classmates have different answers, which makes me in a dilemma."

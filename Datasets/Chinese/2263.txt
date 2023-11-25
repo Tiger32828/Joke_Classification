@@ -1,0 +1,4 @@
+"I'm making a reservation for Valentine's night."
+Siri: I'll see if there are any single-entry restaurants open that day.
+"What I need is a double seat."
+Siri: Huh? Is your mother coming to see you?

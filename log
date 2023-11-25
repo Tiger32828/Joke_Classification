@@ -1,0 +1,22 @@
+model_name
+LinearSVC                 0.782365
+LogisticRegression        0.797906
+Naive Bayes               0.920000
+RandomForestClassifier    0.622424
+
+En
+model_name
+LinearSVC                 0.932819
+LogisticRegression        0.938927
+Naive Bayes               0.980000
+RandomForestClassifier    0.670182
+Name: accuracy, dtype: float64
+
+
+Non En
+model_name
+LinearSVC                 0.805758
+LogisticRegression        0.819067
+Naive Bayes               0.945556
+RandomForestClassifier    0.808011
+Name: accuracy, dtype: float64

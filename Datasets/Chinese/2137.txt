@@ -1,0 +1,2 @@
+Employee: "Boss, prices have soared so high, why are our salaries still the same?"
+Boss: "Do you think we are so unprincipled? Is it the kind of company that goes with the flow?"
